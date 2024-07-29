@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: bisque;
+}
+
+.header {
+  background-color: rgb(21, 21, 84);
+  color: white;
+  text-align: center;
+  padding: 4px;
+}
+
+.btn{
+  background-color: chocolate;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 20px;
+}
